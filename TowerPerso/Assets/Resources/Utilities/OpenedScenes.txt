@@ -1,0 +1,2 @@
+Assets/Scenes/SampleScene.unity
+Assets/Scenes/PersistentManagers.unity
