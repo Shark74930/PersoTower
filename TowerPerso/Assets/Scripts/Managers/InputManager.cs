@@ -31,11 +31,6 @@ public class InputManager : Singleton<InputManager>
     #endregion Events
 
     #region Methods
-    public void Initialize()
-    {
-
-    }
-
     protected override void Update()
     {
         if (Input.GetButtonDown("Jump"))
